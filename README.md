@@ -1,2 +1,2 @@
 # Programming-Problems
-Solving programming problems
+This repository is created to practice programming problems
